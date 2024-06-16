@@ -2,7 +2,7 @@
 
 **Deep Learning From Scratch**
 
-- :star: [Transformer](https://github.com/amusi/AI-Job-Notes)
+- :star: [Transformer](./transformer_from_scratch.ipynb)
 - :smiley: [CNN](docs/自我介绍.md)
 - :1234: [RNN](docs/数学.md)
 - :mortar_board: [机器学习](docs/机器学习.md)
