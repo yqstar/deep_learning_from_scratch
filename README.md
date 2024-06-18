@@ -37,3 +37,6 @@
 - [ ] :smiley: [ARMA](docs/数学.md)
 - [ ] :1234: [ARIMA](docs/数学.md)
 - [ ] :mortar_board: [Prophet](docs/机器学习.md)
+
+**参考**
+https://www.omegaxyz.com/2023/03/29/autoregressive-language-model/
